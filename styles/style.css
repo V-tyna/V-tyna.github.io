@@ -1,0 +1,40 @@
+html {
+    font-size: 16px;
+    font-family: placeholder='Amatic SC', cursive;
+}
+
+h1 {
+    font-size: 40px;
+    text-align: center;
+    color: rgb(46, 111, 116);
+    margin: 0 auto;
+    text-shadow: -1px -1px 2px teal;
+ }
+h2 {
+    font-size: 30px;
+    text-align: center;
+    color: rgb(46, 111, 116);
+    text-shadow: -1px -1px 1px teal;
+}
+p, li {
+    font-size: 16px;
+    line-height: 1;
+    letter-spacing: 1px;
+    text-align: justify;
+    text-align: match-parent;
+    text-indent: 25px;
+}
+html {
+  background-color: #c3e4e2;
+}
+body {
+  width: 600px;
+  margin: 0 auto;
+  background-color: white;
+  padding: 0px 20px 20px 20px; 
+  border: 2px solid rgb(112, 188, 190);
+}
+img {
+display: block;
+margin: 0 auto;
+}
